@@ -1,0 +1,25 @@
+# Build outputs
+*.log
+*.tmp
+.DS_Store
+__pycache__/
+node_modules/
+.env
+build/
+dist/
+target/
+.cache/
+
+# Agent specific
+agents/
+sessions/
+governance_logs/
+agent_data/
+*.agent
+*.session
+
+# Development
+.vscode/
+.idea/
+*.swp
+*.swo
