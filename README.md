@@ -121,9 +121,10 @@ cd lckd-lckd
 
 **🌀 Multi-Agentic Network** - *lckd system for lckd*
 
+---
 </br>
 
-### ◈ PROPOS SUR LA MÉTAVISION ◈
+## ◈ PROPOS SUR LA MÉTAVISION ◈
 *Traité Philosophique et Pratique*
 
 ---
