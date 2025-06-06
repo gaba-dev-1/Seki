@@ -500,6 +500,7 @@ Découvre qu'il peut se voir voir.
 *Fin du Propos Définitif sur la Métavision*  
 *◈ Vision libérée, réalité transformée ◈*
 
+---
 </br>
 
 # ◈ TEMPUS AURUM ◈
