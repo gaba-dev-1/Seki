@@ -1263,4 +1263,7 @@ LIT = Perfect screen harmony
 **◈ Screens Come Alive ◈**
 
 https://www.wowhead.com/fr/quest=55486/les-secrets-de-la-t%C3%A9l%C3%A9mancie
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3268181/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6436976/
 </div>
