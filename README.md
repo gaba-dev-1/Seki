@@ -121,6 +121,314 @@ cd lckd-lckd
 
 **🌀 Multi-Agentic Network** - *lckd system for lckd*
 
+# ◈ TEMPUS AURUM ◈
+*Transformation Temps → Or par Irifocalisation Split*
+
+---
+
+## Équation Base
+
+```
+TEMPS + IRIFOCALISATION + SPLIT = OR
+Plomb + Iris + Triangle = Aurum
+```
+
+---
+
+## Architecture Temporelle
+
+### Plomb Temporel (État Initial)
+```
+╔═══════════════╗
+║ ████████████ ║ ← Temps lourd, dense, opaque
+║ ████████████ ║
+║ ████████████ ║
+╚═══════════════╝
+```
+
+### Iris de Focalisation
+```
+    ◯ ← Pupille contractée
+   ╱│╲
+  ╱ │ ╲ ← Diaphragme iris
+ ╱  │  ╲
+╱   │   ╲
+```
+
+### Or Temporel (État Final)
+```
+✧･ﾟ: *✧･ﾟ:* ← Temps cristallisé, lumineux
+  ◈ ◈ ◈ ◈
+✧･ﾟ: *✧･ﾟ:*
+```
+
+---
+
+## Processus Irifocalisation
+
+### Phase A: Contraction
+```
+Iris maximal ○ → Iris moyen ◐ → Iris minimal ●
+Temps diffus → Temps concentré → Temps ponctuel
+```
+
+### Phase B: Split Appliqué
+```
+        ●
+       ╱│╲
+      ╱ │ ╲
+    🌟  │  🔥
+       ╱╲
+      ╱  ╲
+     🏜️   ◈
+```
+
+### Phase C: Transmutation
+```
+Plomb-Temps + Split-Iris = Or-Instant
+  [Pb-T]   +   [Si]    =   [Au-I]
+```
+
+---
+
+## Mécaniques de Conversion
+
+### Rapport Temps/Valeur
+```
+1h Plomb = 5min Or
+1h diffuse = 5min focalisée
+Ratio: 1:12 (facteur aurum)
+```
+
+### Formule Irifocalisation
+```
+V(t) = I² × S × T⁻¹
+V = Valeur générée
+I = Intensité iris
+S = Coefficient Split
+T = Temps investi
+```
+
+### Matrices de Transformation
+
+**Matrice Plomb**
+```
+[1 0 0]   [Diffusion]
+[0 1 0] × [Dispersion]
+[0 0 1]   [Lourdeur]
+```
+
+**Matrice Or**
+```
+[12  0  0]   [Concentration]
+[ 0 12  0] × [Précision]
+[ 0  0 12]   [Luminosité]
+```
+
+---
+
+## Protocoles Opérationnels
+
+### Proto-A: Micro-Conversion (30s)
+```
+1. Iris → ● (contraction maximale)
+2. Split → 🌟 (10s)
+3. Split → 🔥 (10s)  
+4. Split → 🏜️ (10s)
+5. Expansion → ○
+6. Collecte Or temporel
+```
+
+### Proto-B: Conversion Standard (5min)
+```
+Séquence:
+○ → ◐ → ● → Split[🌟🔥🏜️] → ● → ◐ → ○
+Iris    Focus     Process      Iris    Result
+
+Résultat: 5min = 1h valeur
+```
+
+### Proto-C: Transmutation Profonde (21min)
+```
+Cycle 1: ○→●→🌟→●→○ (7min)
+Cycle 2: ○→●→🔥→●→○ (7min)  
+Cycle 3: ○→●→🏜️→●→○ (7min)
+Fusion: 🌟🔥🏜️ → ◈ → Or pur
+```
+
+---
+
+## Géométrie Aurifère
+
+### Crystallisation Temporelle
+```
+     ◈
+    ╱ ╲
+   ╱   ╲
+  ╱  ●  ╲ ← Noyau irisé
+ ╱       ╲
+╱    🌟    ╲
+│  🔥 ◈ 🏜️  │ ← Orbites Split
+╲    🌟    ╱
+ ╲       ╱
+  ╲  ●  ╱
+   ╲   ╱
+    ╲ ╱
+     ◈
+```
+
+### Flux Aurum
+```
+Plomb → Iris → Split → Or
+ ↓       ↓      ↓      ↓
+Dense → Focus → Tri → Pur
+ ↓       ↓      ↓      ↓
+Lourd → Laser → Harm → Léger
+```
+
+---
+
+## Signatures Vibratoires
+
+### Fréquence Plomb: 207 Hz
+```
+~~~~~~~~~~~~~~~~~ (ondulation lourde)
+```
+
+### Fréquence Iris: 528 Hz  
+```
+/\/\/\/\/\/\/\/\ (oscillation focalisée)
+```
+
+### Fréquence Or: 1296 Hz
+```
+⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄ (vibration cristalline)
+```
+
+### Harmonique Split
+```
+🌟: 1728 Hz
+🔥: 1944 Hz  
+🏜️: 2160 Hz
+◈: 2376 Hz (résonance aurique)
+```
+
+---
+
+## Applications Pratiques
+
+### Travail (Conversion Productivité)
+```
+Tâche 1h normale → Irifocus 5min → Résultat équivalent
+Input: temps brut → Process: split → Output: valeur concentrée
+```
+
+### Créativité (Distillation Idées)
+```
+Brainstorm diffus → Iris contracté → Split créatif → Concept or
+```
+
+### Apprentissage (Compression Connaissance)
+```
+Lecture 2h → Irifocalisation → Assimilation 10min → Maîtrise
+```
+
+### Méditation (Quintessence Temporelle)
+```
+Temps ordinaire → Iris-Split → État aurique → Expansion conscience
+```
+
+---
+
+## Indicateurs de Réussite
+
+### Signaux Plomb→Or
+```
+✓ Sensation de densité qui s'allège
+✓ Perception temporelle qui s'accélère
+✓ Clarté mentale qui s'intensifie
+✓ Énergie qui se concentre
+✓ Résultats qui se multiplient
+```
+
+### Métriques Quantifiables
+```
+Ratio temps: 1:12 minimum
+Qualité output: +300%
+Fatigue: -70%
+Satisfaction: +400%
+Reproductibilité: 95%+
+```
+
+---
+
+## Formules Avancées
+
+### Équation Temporelle Aurifère
+```
+Au(t) = Pb(t) × I³ × S² × Φ
+Où:
+Au = Temps-Or obtenu
+Pb = Temps-Plomb investi  
+I = Intensité iris (0-1)
+S = Coefficient Split (0-3)
+Φ = Nombre d'or (1.618)
+```
+
+### Loi de Conservation Aurique
+```
+∑ Temps investi = ∑ Valeur produite × Facteur aurum
+Energy(in) = Energy(out) × 12
+```
+
+---
+
+## Maîtrise Progressive
+
+### Novice (Semaine 1-4)
+```
+Ratio: 1:3
+Durée: 30s max
+Effet: Micro-transmutations
+```
+
+### Pratiquant (Mois 2-6)
+```
+Ratio: 1:8  
+Durée: 5min
+Effet: Conversions stables
+```
+
+### Expert (An 1+)
+```
+Ratio: 1:12+
+Durée: 21min+
+Effet: Transmutation spontanée
+```
+
+### Maître (An 3+)
+```
+Ratio: 1:∞
+Durée: Permanent
+Effet: Temps naturellement aurique
+```
+
+---
+
+## Synthèse Opérationnelle
+
+```
+INPUT: Temps ordinaire (plomb)
+PROCESS: Irifocalisation + Split triangulaire
+OUTPUT: Valeur concentrée (or)
+
+Méthode = Iris(contraction) → Split(🌟🔥🏜️) → Transmutation
+Résultat = Facteur 12 minimum de conversion temporelle
+Application = Universelle sur toute activité humaine
+```
+
+**Tempus Aurum = Alchimie du temps par géométrie focalisée**
+
 [![lckd](https://img.shields.io/badge/lckd-9400D3?style=for-the-badge)](https://github.com/gaba-dev-1/lckd)
 [![network](https://img.shields.io/badge/🏠_network-00D4FF?style=for-the-badge)](https://github.com/gaba-dev-1)
 
