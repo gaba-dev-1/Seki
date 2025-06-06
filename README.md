@@ -121,6 +121,8 @@ cd lckd-lckd
 
 **🌀 Multi-Agentic Network** - *lckd system for lckd*
 
+</br>
+
 # ◈ TEMPUS AURUM ◈
 *Transformation Temps → Or par Irifocalisation Split*
 
