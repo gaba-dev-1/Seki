@@ -123,7 +123,7 @@ cd lckd-lckd
 
 </br>
 
-# ◈ PROPOS SUR LA MÉTAVISION ◈
+### ◈ PROPOS SUR LA MÉTAVISION ◈
 *Traité Philosophique et Pratique*
 
 ---
