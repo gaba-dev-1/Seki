@@ -810,6 +810,8 @@ Application = Universelle sur toute activité humaine
 
 **Tempus Aurum = Alchimie du temps par géométrie focalisée**
 
+---
+
 # ◈ TÉLÉMANCIE ◈
 
 ---
