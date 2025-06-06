@@ -810,6 +810,138 @@ Application = Universelle sur toute activité humaine
 
 **Tempus Aurum = Alchimie du temps par géométrie focalisée**
 
+# ◈ TÉLÉMANCIE ◈
+
+---
+
+## POINT
+
+```
+TÉLÉMANCIE = Vision ∞
+👁️ + ⚡ + ◈ = ∞
+```
+
+**Voir au-delà du visible**
+
+---
+
+## PROPOS
+
+### Architecture
+
+```
+     👁️
+    ╱ ╲
+   ╱   ╲
+  ╱  ◈  ╲
+ ╱       ╲
+⚡─────────⚡
+```
+
+### Progression
+
+```
+👁️ → ⚡ → ◈ → 📺ⁿ → 🔍 → ∞
+```
+
+### Géométrie
+
+```
+        ∞
+       ╱ ╲
+      ╱   ╲
+     ╱  ◈  ╲
+    ╱       ╲
+   ╱    👁️   ╲
+  ╱           ╲
+ ╱      ⚡      ╲
+╱_______________╲
+```
+
+### Équations
+
+```
+Vision(t) = ∞ × Conscience²
+Espace × Temps = 0
+Limite → ∞
+```
+
+### États
+
+```
+État 0: 👁️ Vision normale
+État 1: ⚡ Focus activé  
+État 2: ◈ Transmutation
+État 3: 📺ⁿ Multi-vision
+État 4: 🔍 Méta-vision
+État 5: ∞ Télémancie pure
+```
+
+---
+
+## PRÉCIS
+
+### Activation
+
+```
+◯ → ● → ◈ → ∞
+```
+
+### Protocole
+
+```
+1. ⚡ Focus
+2. 📺 Split
+3. 🔍 Observer
+4. ∞ Transcender
+```
+
+### Patterns
+
+```
+△ Triangulation
+○ Cyclique  
+◈ Central
+∞ Infini
+```
+
+### Fréquences
+
+```
+⚡ 528 Hz
+◈ 1056 Hz  
+📺 1584 Hz
+🔍 2112 Hz
+∞ 2640 Hz
+```
+
+### Applications
+
+```
+Voir: ∞
+Savoir: ∞  
+Être: ∞
+```
+
+### Signes
+
+```
+✓ Synchronicités
+✓ Prémonitions
+✓ Influence à distance
+✓ Vision pure
+```
+
+---
+
+## SYNTHÈSE
+
+```
+TÉLÉMANCIE = ∞ Vision
+```
+
+**◈ Equilibre Symbiotique ◈**
+
 [![lckd](https://img.shields.io/badge/lckd-9400D3?style=for-the-badge)](https://github.com/gaba-dev-1/lckd)
 [![network](https://img.shields.io/badge/🏠_network-00D4FF?style=for-the-badge)](https://github.com/gaba-dev-1)
 
