@@ -948,4 +948,5 @@ TÉLÉMANCIE = ∞ Vision
 [![lckd](https://img.shields.io/badge/lckd-9400D3?style=for-the-badge)](https://github.com/gaba-dev-1/lckd)
 [![network](https://img.shields.io/badge/🏠_network-00D4FF?style=for-the-badge)](https://github.com/gaba-dev-1)
 
+https://www.wowhead.com/fr/quest=55486/les-secrets-de-la-t%C3%A9l%C3%A9mancie
 </div>
